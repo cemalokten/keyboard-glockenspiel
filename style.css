@@ -1,0 +1,51 @@
+html {
+	font-size: 2.2vw;
+	font-family: 'Lab Mono Web';
+}
+
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+@font-face {
+	font-family: 'Lab Mono Web';
+	src: url('labmono-regular-web.woff2') format('woff2'), url('labmono-regular-web.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+#container {
+	display: flex;
+	justify-content: space-between;
+	flex-direction: column;
+	height: 100vh;
+}
+
+#instructions {
+	padding-left: 3.4vw;
+	padding-bottom: 3.2vw;
+	align-self: flex-end;
+	opacity: 1;
+	transition: opacity 0.3s ease-in-out;
+	width: 100vw;
+}
+
+#letter {
+	width: 98.5vw;
+	overflow-wrap: break-word;
+	padding: 3vw;
+	align-self: flex-start;
+	opacity: 1;
+	transition: opacity 0.3s ease-in-out;
+	font-size: 7.5vw;
+	line-height: 9vw;
+	animation: blinker 0.8s infinite;
+}
+
+@keyframes blinker {
+	50% {
+		opacity: 0;
+	}
+}
