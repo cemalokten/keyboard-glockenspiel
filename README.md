@@ -15,12 +15,14 @@ The background colour and text changes with each key press.
 
 ### 🦺 Testing
 - Works on latest version of Firefox, Chrome and Edge
+- Does not work on mobile
 - Further testing required
 
 ### ⏳ Future improvements
-- Function for use of `backspace` to delete unwanted words
-- Function to `copy` creation and share with the world
-- Use of `1-9` to change instrument
+- [ ] Function for use of `backspace` to delete unwanted words
+- [ ] Function to `copy` creation and share with the world
+- [ ] Use of `1-9` to change instrument
+- [ ] Mobile version
 
 ### 👀 Screenshots
 
