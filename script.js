@@ -160,11 +160,17 @@ document.addEventListener('keydown', function(e) {
 	if (keys.includes(e.key)) {
 		const audio = document.querySelector(`audio[data-key="${e.key}"]`);
 		letter.style.animation = 'none';
-		history += `<span style="color:${randomColour()}">${e.key}</span>`;
-		letter.innerHTML = `${history}`;
+		history.push(`<span style="color:${randomColour()}">${e.key}</span>`);
+		letter.innerHTML = `${history.join('')}`;
 		instructions.style.opacity = 0;
 		html.style.backgroundColor = randomColour();
 		html.style.color = randomColour();
+		audio.currentTime = 0;
+		audio.play();
+	} else if (e.key === 'Backspace') {
+		const audio = document.querySelector(`audio[data-key="${e.key}"]`);
+		history.pop();
+		letter.innerHTML = `${history.join('')}`;
 		audio.currentTime = 0;
 		audio.play();
 	} else {
