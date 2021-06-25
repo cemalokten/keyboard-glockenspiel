@@ -1,6 +1,8 @@
 ### Keyboard Glockenspiel 🎹
 
-A project from **week 1** of the FAC 22 pre-apprentiship.
+A project from **week 1** of the FAC 22 pre-apprenticeship. 
+
+💾 See full pre-apprenticeship repository [here](https://github.com/cemalokten/fac-pre-apprenticeship). 
 
 The keyboard glockenspeil plays sounds from a glockenspeil and steel pan as you type. The background colour and text changes with each key press. 
 
@@ -17,3 +19,11 @@ The keyboard glockenspeil plays sounds from a glockenspeil and steel pan as you 
 - Function for use of `backspace` to delete unwanted words
 - Function to `copy` creation and share with the world
 - Use of `1-9` to change instrument
+
+### 👀 Screenshots
+
+<img src="images/keyboard-glockenspiel-0.jpg" alt="Keyboard Glockenspiel" width="600px">
+
+<img src="images/keyboard-glockenspiel-1.jpg" alt="Keyboard Glockenspiel" width="600px">
+
+<img src="images/keyboard-glockenspiel-2.jpg" alt="Keyboard Glockenspiel" width="600px">
