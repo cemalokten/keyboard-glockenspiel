@@ -4,7 +4,9 @@ A project from **week 1** of the FAC 22 pre-apprenticeship.
 
 💾 See full pre-apprenticeship repository [here](https://github.com/cemalokten/fac-pre-apprenticeship). 
 
-The keyboard glockenspeil plays sounds from a glockenspeil and steel pan as you type. The background colour and text changes with each key press. 
+The keyboard glockenspeil plays sounds from a glockenspeil and steel pan as you type. 
+
+The background colour and text changes with each key press. 
 
 ### 📚 What I learnt
 - How to reset audio playback with `.currentTime`
