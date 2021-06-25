@@ -22,8 +22,9 @@ The keyboard glockenspeil plays sounds from a glockenspeil and steel pan as you 
 
 ### 👀 Screenshots
 
-<img src="images/keyboard-glockenspiel-0.jpg" alt="Keyboard Glockenspiel" width="600px">
+<img src="./images/keyboard-glockenspiel-0.jpg" alt="Keyboard Glockenspiel" width="600px">
 
-<img src="images/keyboard-glockenspiel-1.jpg" alt="Keyboard Glockenspiel" width="600px">
+<img src="./images/keyboard-glockenspiel-1.jpg" alt="Keyboard Glockenspiel" width="600px">
 
-<img src="images/keyboard-glockenspiel-2.jpg" alt="Keyboard Glockenspiel" width="600px">
+<img src="./images/keyboard-glockenspiel-2.jpg" alt="Keyboard Glockenspiel" width="600px">
+
