@@ -19,7 +19,7 @@ The background colour and text changes with each key press.
 - Further testing required
 
 ### ⏳ Future improvements
-- [x] Function for use of `backspace` to delete unwanted words
+- [x] Function for use of `backspace` to delete unwanted letters
 - [ ] Function to `copy` creation and share with the world
 - [ ] Use of `1-9` to change instrument
 - [ ] Mobile version
