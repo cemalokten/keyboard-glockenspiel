@@ -8,6 +8,8 @@ The keyboard glockenspeil plays sounds from a glockenspeil and steel pan as you 
 
 The background colour and text changes with each key press. 
 
+Sounds by [FreeSound.org] (https://freesound.org)
+
 ### 📚 What I learnt
 - How to reset audio playback with `.currentTime`
 - How to play audio with `.play()`
